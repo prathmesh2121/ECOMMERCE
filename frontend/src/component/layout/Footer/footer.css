@@ -1,0 +1,74 @@
+footer {
+    margin-top: 10vmax;
+    padding: 2vmax;
+    background-color: rgb(212, 196, 196);
+    color: white;
+    display: flex;
+    align-items: center;
+  }
+  
+  .leftfooter {
+    width: 20%;
+    display: flex;
+    color: black;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  .midfooter {
+    width: 60%;
+    
+    color: black;
+  
+    text-align: center;
+  }
+
+  .rightfooter {
+    width: 20%;
+  
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+
+  #twit
+  {
+
+        margin: 10px;
+        height: 40px;
+        width: 40px;
+  }
+  #appplay
+  {
+    margin: 10px;
+    height: 120px;
+    width: 200px;
+  }
+  #pixelmart
+  {
+   
+    height: 180px;
+    width: 350px;
+
+  }
+  #whatsapp
+  {
+        height: 40px;
+        width: 40px;
+        margin: 10px;
+  }
+  
+  #insta
+  {
+        height: 40px;
+        width: 40px;
+        
+        margin: 10px;
+  }
+#downloadoutapp
+{
+    margin-left: 18px;
+    text-align: center;
+    
+}
